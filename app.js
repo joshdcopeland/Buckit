@@ -246,7 +246,7 @@ app.controller('MainCtrl', function($scope, $rootScope) {
   }
   $scope.payBuckit = payBuckit;
 	
-	/============================== FILLUP ==================
+	/============================== FILLUP ==================/
   $scope.shouldShowFillup = false;
 	
   function toggleShowFillup(){
