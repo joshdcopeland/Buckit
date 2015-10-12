@@ -89,11 +89,7 @@ app.controller('MainCtrl', function($scope, $rootScope) {
   
     $rootScope.searchItems = [
     "charity: water",
-    "Crowdrise \"Nepal Earthquake Relief\" ",
-    "Apple", 
-    "NAMI Norfolk",
-    "NAMI Virginia",
-    "NAMI"
+    "Crowdrise \"Nepal Earthquake Relief\" "
   ];
 	//Sort Array
 	$rootScope.searchItems.sort();
