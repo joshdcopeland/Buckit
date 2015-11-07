@@ -91,7 +91,7 @@ app.controller('MainCtrl', function($scope, $rootScope) {
     "charity: water",
     "Crowdrise \"Nepal Earthquake Relief\" "
   ];
-	//Sort Array
+	//Sort Array//
 	$rootScope.searchItems.sort();
 	//Define Suggestions List
 	$rootScope.suggestions = [];
